@@ -12,7 +12,7 @@ class Vehicle {
     var horsePower = 468
     var model = ""
     
-    //Functions
+    //Empty Functions
     func drive() {
         //Accelerate the vehicle
     }
