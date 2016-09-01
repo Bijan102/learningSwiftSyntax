@@ -30,7 +30,7 @@ let ford = Vehicle()
 ford.model = "F150"
 ford.brake()
 
-//Passing obj by reference implicitly
+//Swift passes obj by reference implicitly
 func passByReference(vehicle: Vehicle) {
     vehicle.model = "Cheese"
 }
